@@ -1,0 +1,4 @@
+openai==1.12.0
+clarifai==10.1.0
+clarifai-grpc==10.0.10
+streamlit==1.25.0
